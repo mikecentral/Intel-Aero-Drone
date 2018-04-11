@@ -1,6 +1,6 @@
 # -*- coding: utf-8 -*-
 """
-Intel Aero Version of the Backyard Flyer Project. On GitHub
+Intel Aero Version of the Backyard Flyer Project. On GitHub rev2
 """
 
 import time
